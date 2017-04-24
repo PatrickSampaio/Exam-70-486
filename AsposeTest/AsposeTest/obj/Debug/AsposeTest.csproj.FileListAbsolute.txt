@@ -1,0 +1,7 @@
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\bin\Debug\AsposeTest.exe.config
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\obj\Debug\AsposeTest.csprojResolveAssemblyReference.cache
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\bin\Debug\AsposeTest.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\bin\Debug\AsposeTest.pdb
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\bin\Debug\Aspose.Slides.dll
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\obj\Debug\AsposeTest.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\AsposeTest\AsposeTest\obj\Debug\AsposeTest.pdb

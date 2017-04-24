@@ -1,0 +1,6 @@
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.pdb
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.csprojResolveAssemblyReference.cache
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.pdb

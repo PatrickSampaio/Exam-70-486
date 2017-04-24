@@ -1,0 +1,6 @@
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\bin\Debug\FileHandler.exe.config
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\bin\Debug\FileHandler.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\bin\Debug\FileHandler.pdb
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\obj\Debug\FileHandler.csprojResolveAssemblyReference.cache
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\obj\Debug\FileHandler.exe
+c:\users\pbrandao\documents\visual studio 2015\Projects\FileHandler\FileHandler\obj\Debug\FileHandler.pdb
