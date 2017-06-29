@@ -1,1 +1,7 @@
 c:\users\pbrandao\documents\visual studio 2015\Projects\XmlTeste\XmlTeste\bin\Debug\XmlTeste.exe.config
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\bin\Debug\XmlTeste.exe.config
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\bin\Debug\XmlTeste.exe
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\bin\Debug\XmlTeste.pdb
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\obj\Debug\XmlTeste.csprojResolveAssemblyReference.cache
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\obj\Debug\XmlTeste.exe
+C:\Users\pbrandao\Documents\GitHub\Exam-70-486\XmlTeste\XmlTeste\obj\Debug\XmlTeste.pdb
